@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+      <title>First Website</title>
+  </head>  
+  <body>
+    <!-- headings-->
+    <h1>Head One</h1>
+    <h2>Head Two</h2>
+    <h3>Head Three</h3>
+    <h4>Head Four</h4>
+    <h5>Head Five</h5>
+    <h6>Head Six</h6>
+    <!-- Paragraph -->
+    <p>
+      <strong>Common Mistakes:</strong>
+      <a href="http://ice-web.cc.gatech.edu/ce21/1/static/JavaReview-RU/VariableBasics/commonMistakes.html" target ="_blank">Common Mistakes</a>
+      forgetting that <strong>Java</strong> is case <em>sensitive</em> - myScore is not the same as myscore.
+forgetting to specify the type when declaring a variable (using name = value; instead of type name = value;)
+using a variable name, but never declaring the variable.
+    </p>
+    <p>
+using the wrong name for the variable. For example calling it studentTotal when you declare it, but later calling it total.
+using the wrong type for a variable. Don’t forget that using integer types in calculations will give an integer result. So either cast one integer value to double or use a double variable if you want the fractional part (the part after the decimal point).
+using == to compare double values. Remember that double values are often an approximation. You might want to test if the absolute value of the difference between the two values is less than some amount instead.
+assuming that some value like 0 will be smaller than other int values. Remember that int values can be negative as well. If you want to set a value to the smallest possible int values use Integer.MIN_VALUE
+    </p>
+    <ul>
+      <li>forgetting that Java is case sensitive.</li>
+      <li>forgetting to specify the type when declaring a variable.</li>
+      <li>using a variable name, but never declaring the variable.</li>
+      <li>using the wrong name for the variable.</li>
+      <li>using the wrong type for a variable.</li>
+      <li>Remember that double values are often an approximation.</li> 
+      <li>Remember the smallest possible int values use Integer.MIN_VALUE.</li>
+    </ul>
+    <ol>
+      <li>forgetting that Java is case sensitive.</li>
+      <li>forgetting to specify the type when declaring a variable.</li>
+      <li>using a variable name, but never declaring the variable.</li>
+      <li>using the wrong name for the variable.</li>
+      <li>using the wrong type for a variable.</li>
+      <li>Remember that double values are often an approximation.</li> 
+      <li>Remember the smallest possible int values use Integer.MIN_VALUE.</li>
+    </ol>
+    <!-- Table -->
+    <table>
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Email</th>
+          <th>Age</th>
+        </tr>
+      </thead>
+      <body>
+        <tr>
+          <td>Ada</td>
+          <td>ada@cuny.edu</td>
+          <td>30</td>
+        </tr>
+        <tr>
+          <td>Bob</td>
+          <td>bob@cuny.edu</td>
+          <td>33</td>
+        </tr>
+        <tr>
+          <td>Cindy</td>
+          <td>cindy@cuny.edu</td>
+          <td>23</td>
+        </tr>
+        <tr>
+          <td>David</td>
+          <td>david@cuny.edu</td>
+          <td>25</td>
+        </tr>
+
+      </body>
+    </table>
+    <!-- Forms -->
+    
+    <div style="margin-top:200px"></div>
+  </body>
+</html>
