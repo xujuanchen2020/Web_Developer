@@ -1,0 +1,66 @@
+<!DOCTYPE Html>
+<html>
+    <head>
+        <title>My Blog</title>
+    </head>
+    <body>
+        <header id="Main Header">
+            <h1>My Website</h1>
+        </header>
+        <section>
+            <article class="post">
+                <h3>Blog Post One</h3>
+                <small>posted on Mar 17 2020</small>
+                <p>
+                    How much does your service cost?
+
+You Pay Per Lead. Lead prices and monthly costs vary based on your business type & location. As this is a competitive marketplace, the higher the cost of your type of work, the more expensive a lead will be. For example, a carpet cleaning company’s average ticket prices is considerably lower than that of a personal injury attorney, thus you can expect the lead cost to be much lower as well.
+
+We get you as many leads as we can at your chosen price per lead. We give you control over your marketing budget and we tailor our marketing efforts based on the lead price you set.
+
+You can adjust your Price Per Lead at any time. Raise your price for more Leads. Lower your price for less leads.
+                </p>
+            </article>
+            <article class="post">
+                <h3>Blog Post Two</h3>
+                <small>posted on Mar 17 2020</small>
+                <p>
+                    How much does your service cost?
+
+You Pay Per Lead. Lead prices and monthly costs vary based on your business type & location. As this is a competitive marketplace, the higher the cost of your type of work, the more expensive a lead will be. For example, a carpet cleaning company’s average ticket prices is considerably lower than that of a personal injury attorney, thus you can expect the lead cost to be much lower as well.
+
+We get you as many leads as we can at your chosen price per lead. We give you control over your marketing budget and we tailor our marketing efforts based on the lead price you set.
+
+You can adjust your Price Per Lead at any time. Raise your price for more Leads. Lower your price for less leads.
+                </p>
+            </article>
+            <article class="post">
+                <h3>Blog Post Three</h3>
+                <small>posted on Mar 17 2020</small>
+                <p>
+                    How much does your service cost?
+
+You Pay Per Lead. Lead prices and monthly costs vary based on your business type & location. As this is a competitive marketplace, the higher the cost of your type of work, the more expensive a lead will be. For example, a carpet cleaning company’s average ticket prices is considerably lower than that of a personal injury attorney, thus you can expect the lead cost to be much lower as well.
+
+We get you as many leads as we can at your chosen price per lead. We give you control over your marketing budget and we tailor our marketing efforts based on the lead price you set.
+
+You can adjust your Price Per Lead at any time. Raise your price for more Leads. Lower your price for less leads.
+                </p>
+                <a href="post.html">Read More</a>
+            </article>
+        </section>
+        <aside>
+            <h3>Categories</h3>
+            <nav>
+                <ul>
+                    <li><a href="#">Category 1</a></li>
+                    <li><a href="#">Category 2</a></li>
+                    <li><a href="#">Category 3</a></li>
+                </ul>
+            </nav>           
+        </aside>
+        <footer id="Main Footer">
+            <p>Copyright &copy; 2020, My Website</p>
+        </footer>
+    </body>
+</html>
