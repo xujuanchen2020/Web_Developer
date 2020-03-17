@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+      <title>First Website</title>
+  </head>  
+  <body>
+    <!-- headings-->
+    <h1>Head One</h1>
+    <h2>Head Two</h2>
+    <h3>Head Three</h3>
+    <h4>Head Four</h4>
+    <h5>Head Five</h5>
+    <h6>Head Six</h6>
+
+
+    <!-- Quotation -->
+    <blockquote cite="https://www.womentechmakers.com/">
+      From 2014 to present, Women Techmakers is continually launching global scalable initiatives and piloting new programs to support and empower women in the industry. 
+      Receive updates from us when we're rolling out new initiatives.
+    </blockquote>
+    <p>Hello world <abbr title="World Wide Web">WWW</abbr> hello world. </p>
+    <p><cite>HTML crash course</cite>practice more. </p>
+    <div style="margin-top:200px"></div>
+  </body>
+</html>
