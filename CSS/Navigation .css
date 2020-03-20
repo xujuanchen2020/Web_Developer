@@ -1,0 +1,98 @@
+body{
+    background-color: #f4f4f4;
+    color:#555;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:16px;
+    line-height: 1.6em;
+    margin:0;
+}
+
+.container{
+    width:80%;
+    margin:auto;
+    overflow: hidden;
+}
+
+#main-header{
+    background-color: purple;
+    color:#fff;
+    padding:10px;
+    padding-left: 50px;
+}
+
+#navbar{
+    background-color: #19070B;
+    color:#fff;
+}
+
+#navbar ul{
+    padding: 0;
+    /*remove the radiobuttons*/
+    list-style: none; 
+}
+
+#navbar li{
+    display: inline;
+}
+
+#navbar a{
+    color:#fff;
+    text-decoration: none;
+    font-size:18px;
+    padding-right: 15px;
+    margin-bottom:30px;
+    text-align:center;
+}
+
+#showcase{
+    background-image:url('../image/ube_cake.jpeg');
+    background-position: center bottom;  
+    min-height:300px;
+    margin-bottom: 30px;
+    text-align:center;
+}
+
+#showcase h1{
+    color:#fff;
+    font-size:50px;
+    line-height:1.6em;
+    padding-top:30px;
+}
+
+#main{
+    float:left;
+    width:70%;
+    padding: 0 30px;
+    box-sizing: border-box;
+}
+
+#sidebar{
+    float:right;
+    width:30%;
+    background-color: #19070B;
+    color:#fff;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+#main-footer{
+    background:#19070B;
+    color:#fff;
+    text-align: center;
+    padding-top:10px;
+    margin-top:30px;
+    width: 100%;
+    height:60px;
+}
+
+@media(max-width:600px){
+    #main{
+        widows: 100%;
+        float:none;
+    }
+
+    #sidebar{
+        width:100%;
+        float:none;
+    }
+}
